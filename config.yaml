@@ -1,0 +1,6 @@
+redis:
+  host: redis-14556.c274.us-east-1-3.ec2.cloud.redislabs.com
+  db: 0
+  user: default
+  password: OsRkHGxHHuN8UTBm0UjOknV5WREooN54
+  port: 14556
